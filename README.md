@@ -2,4 +2,4 @@
 
 `go run main.go`
 
-Navigate to: `localhost:9090/review`
+Navigate to: `localhost:9090/new_route`
